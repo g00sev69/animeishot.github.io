@@ -8,5 +8,10 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=animeishot&theme=dark" alt="animeishot" /></p>
 
+<br>
+<br>
+<br>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeishot&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="animeishot" /></p>
 
